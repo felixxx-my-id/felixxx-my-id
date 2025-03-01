@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌐 felixxx.my.id<br>🌐 v2.felixxx.my.id<br>
-
-
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@felixxx.my.id) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felixxx@felixxx.my.id) 
 
@@ -23,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=felixxx-my-id&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
